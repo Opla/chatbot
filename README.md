@@ -1,2 +1,1 @@
-# chatbot
-Great chatbots made with Opla :robot:
+# Great chatbots made with Opla :robot:
