@@ -1,0 +1,5 @@
+{
+  "name": "demo",
+  "description": "minimal bot",
+  "intents": [{ "input": "hello", "output": "hello" }]
+}
