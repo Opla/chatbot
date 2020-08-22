@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "description": "minimal bot",
+  "intents": [
+    {
+      "input": "hello", 
+      "output": [
+        {
+          "type": "condition",
+          "children": [
+            {
+              "name": "var",
+              "value": null,
+              "text": "hello<<var=again>>"
+            },
+            {
+              "name": "var",
+              "value": "again",
+              "text": "hello {{var}}"
+            }
+          ]
+        }
+      ] }]
+}
