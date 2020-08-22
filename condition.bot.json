@@ -1,6 +1,6 @@
 {
   "name": "demo",
-  "description": "minimal bot",
+  "description": "condition output bot",
   "intents": [
     {
       "input": "hello", 
