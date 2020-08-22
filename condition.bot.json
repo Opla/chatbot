@@ -3,7 +3,7 @@
   "description": "conditionnal output bot",
   "intents": [
     {
-      "input": "hello", 
+      "input": ["hello", "hi", "yeah"], 
       "output": [
         {
           "type": "condition",
